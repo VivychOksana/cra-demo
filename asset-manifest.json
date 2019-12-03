@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "%20Oksana.github.io/cra-demo/static/css/main.b100e6da.chunk.css",
+    "main.js": "%20Oksana.github.io/cra-demo/static/js/main.d945f396.chunk.js",
+    "main.js.map": "%20Oksana.github.io/cra-demo/static/js/main.d945f396.chunk.js.map",
+    "runtime-main.js": "%20Oksana.github.io/cra-demo/static/js/runtime-main.84fe6db0.js",
+    "runtime-main.js.map": "%20Oksana.github.io/cra-demo/static/js/runtime-main.84fe6db0.js.map",
+    "static/js/2.4108201c.chunk.js": "%20Oksana.github.io/cra-demo/static/js/2.4108201c.chunk.js",
+    "static/js/2.4108201c.chunk.js.map": "%20Oksana.github.io/cra-demo/static/js/2.4108201c.chunk.js.map",
+    "index.html": "%20Oksana.github.io/cra-demo/index.html",
+    "precache-manifest.265d0b3ff5a19a234eaa37d80d9df959.js": "%20Oksana.github.io/cra-demo/precache-manifest.265d0b3ff5a19a234eaa37d80d9df959.js",
+    "service-worker.js": "%20Oksana.github.io/cra-demo/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "%20Oksana.github.io/cra-demo/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "%20Oksana.github.io/cra-demo/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84fe6db0.js",
+    "static/js/2.4108201c.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.d945f396.chunk.js"
+  ]
+}
